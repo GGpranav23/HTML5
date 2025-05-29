@@ -4,7 +4,7 @@ HTML5 is the fifth revision of the HTML.
 
 # How HTML works in the browser?
 
-1. Request and Fetch: The Browser requests an HTML file from a server
+1. *Request and Fetch:* The Browser requests an HTML file from a server
 
 2. Parsing: The Browser Parses the HTML into DOM (Document Object Model), a tree-like structure representing the page's content.
 
